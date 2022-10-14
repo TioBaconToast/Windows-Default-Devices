@@ -1,5 +1,6 @@
 chcp 65001
 @echo off
+::THIS SCRIPT REQUIRES nircmd to work links in read me file ::
 
 ::========= SET DEVICE NAME ===========::
 Set theDefaultOutput="REPLACE WITH DEVICE NAME"  ::(Replace with MAIN MIC device)
